@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1099301995454",
+    "project_id": "collaborativeprogress-3c62b",
+    "storage_bucket": "collaborativeprogress-3c62b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099301995454:android:d6524f20ba97d3c23e6fef",
+        "android_client_info": {
+          "package_name": "com.example.collab_prog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPL0st4haYGsv1rTfhFHthYLjXwBUhfik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
